@@ -21,8 +21,7 @@ OAT/
 ├── utils/                                # Helper functions
 ├── utils_visu.py                         # Plotting and visualisation utilities
 ├── SyntheticData_Classification.ipynb    # Experiments on synthetic classification data
-├── SyntheticData_Regression.ipynb        # Experiments on synthetic regression data
-└── README.md
+└── SyntheticData_Regression.ipynb        # Experiments on synthetic regression data
 ```
 
 
