@@ -2,7 +2,7 @@
 
 Code for **Online Active Testing: Adaptive Importance Sampling for Unbiased Risk Estimation in Data Streams**.
 
-Links: [OpenReview](...) | [Paper](...) | [amU.HAL.science]()
+Links: [OpenReview](https://openreview.net/forum?id=AyJOqDpoNN#discussion) | [Paper](...) | [amU.HAL.science]()
 
 ## Overview
 
