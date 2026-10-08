@@ -32,6 +32,8 @@ The quickest way to see OAT in action is through the notebooks that can be used 
 - **`SyntheticData_Classification.ipynb`**: OAT of a Random Forest on the two moons dataset.
 - **`SyntheticData_Regression.ipynb`**: OAT of a linear model and a gaussion process on synthetic data.
 
+<img title="a title" alt="Alt text" src="synthetic_full_result.pdf">
+
 
 
 ## Citation
