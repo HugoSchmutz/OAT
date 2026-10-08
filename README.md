@@ -40,7 +40,7 @@ If you use this code, please cite:
 
 ```bibtex
 @article{schmutz2026online,
-  title={Robust sampling for active statistical inference},
+  title={Online Active Testing: Adaptive Importance Sampling for Unbiased Risk Estimation in Data Streams},
   author={Schmutz, Hugo and Kadri, Hachem and Artières, Thierry},
   journal={Advances in Neural Information Processing Systems},
   year={2026}
