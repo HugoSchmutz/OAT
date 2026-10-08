@@ -33,7 +33,7 @@ The quickest way to see OAT in action is through the notebooks that can be used 
 - **`SyntheticData_Regression.ipynb`**: OAT of a linear model and a gaussion process on synthetic data.
 
 <img title="Figure 2" alt="Alt text" src="synthetic_full_result.jpg">
-Figure 2: Online Active Testing improves risk estimation across diverse synthetic settings. Each column shows a different combination of data structure/model/surrogate. Top row: regression and classification scenarios. Bias (middle) and variance (bottom) of the risk estimation with respect to the number of seen points in the data stream under different loss functions (MSE for regression and log-loss and 0–1 loss for classification) and different sampling strategies.
+**Figure 2:** Online Active Testing improves risk estimation across diverse synthetic settings. Each column shows a different combination of data structure/model/surrogate. Top row: regression and classification scenarios. Bias (middle) and variance (bottom) of the risk estimation with respect to the number of seen points in the data stream under different loss functions (MSE for regression and log-loss and 0–1 loss for classification) and different sampling strategies.
 
 
 ## Citation
